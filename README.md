@@ -1,2 +1,2 @@
 # SoftUni-Basic
-Problems from SoftUni Basic
+All problems from SoftUni JS Basic Course 
