@@ -1,4 +1,7 @@
 # SoftUni-Basic-JavaScript
+
+Course Overview:
+
 Basic Syntax: Introduction to JavaScript syntax, including variables, data types, and basic operations.
 
 Conditional Statements: Understanding if-else statements to control the flow of your code based on conditions.
